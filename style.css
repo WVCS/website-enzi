@@ -1,3 +1,14 @@
 body {
-
+  background-color:#ffff33;
+}
+h2{
+  color:#ff0001;
+  font-size:300%;
+  letter-spacing:2px;
+  text-decoration:underline;
+} 
+p{
+  color:#ff0999;
+  font-size:150%;
+}
 }
