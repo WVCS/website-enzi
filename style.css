@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
-
 ul{
   list-sytle-type:none;
   text-align:center;
@@ -11,7 +10,6 @@ ul{
 
 li a{
   float: left;
-  
 }
 
 li a{
@@ -19,7 +17,6 @@ li a{
   padding: 20px;
   font-family: 'Playfair Display';
   text-decoration-line:none;
-
 }
 li a:hover{
   background-color: #333533;
@@ -39,7 +36,6 @@ p{
   font-family: 'Playfair Display';
   font-size:160%;
 }
-
 
 
 }
