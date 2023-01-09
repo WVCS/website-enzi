@@ -1,14 +1,17 @@
-body {
-  background-color:#ffff33;
+ul{
+  color:#caffd0;
+}
+body{
+  background-color:#252422;
 }
 h2{
-  color:#ff0001;
-  font-size:300%;
+  color:#FFC0CB;
+  font-size:350%;
   letter-spacing:2px;
-  text-decoration:underline;
 } 
 p{
-  color:#ff0999;
+  color:#fcf6bd;
   font-size:150%;
 }
+
 }
