@@ -4,7 +4,7 @@ ul{
   list-style-type:none;
   text-align:center;
   width:100%;
-  font-size:110%;
+  font-size:100%;
 }
 
 li a{
@@ -13,7 +13,7 @@ li a{
 
 li a{
   color:#caffd0;
-  padding: 15px;
+  padding: 10px;
   font-family: 'Playfair Display';
   text-decoration-line:none;
 }
@@ -29,12 +29,12 @@ body{
 h2{
   color:#FFC0CB;
   font-family: 'Playfair Display';
-  font-size:350%;
+  font-size:300%;
   letter-spacing:3px;
 } 
 
 p{
   color:#fcf6bd;
   font-family: 'Playfair Display';
-  font-size:150%;
+  font-size:130%;
 }
