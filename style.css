@@ -10,7 +10,6 @@ ul{
 
 li a{
   float: left;
-  
 }
 
 li a{
@@ -18,8 +17,8 @@ li a{
   padding: 15px;
   font-family: 'Playfair Display';
   text-decoration-line:none;
-
 }
+
 li a:hover{
   background-color: #333533;
 }
@@ -27,17 +26,17 @@ li a:hover{
 body{
   background-color:#242423;
 }
+
 h2{
   color:#FFC0CB;
   font-family: 'Playfair Display';
   font-size:360%;
   letter-spacing:3px;
 } 
+
 p{
   color:#fcf6bd;
   font-family: 'Playfair Display';
   font-size:160%;
 }
 
-
-}
