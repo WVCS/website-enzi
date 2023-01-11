@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
+ul{
+  list-sytle-type:none;
+  text-align:center;
+  width:100%;
+  font-size:120%;
+}
+
 li a{
   float: left;
 }
@@ -9,8 +16,8 @@ li a{
   padding: 15px;
   font-family: 'Playfair Display';
   text-decoration-line:none;
-
 }
+
 li a:hover{
   background-color: #f6ced5;
 }
@@ -20,9 +27,8 @@ body{
 }
 
 p{
+  text-align:center;
   color:#bbd880;
   font-family: 'Playfair Display';
   font-size:160%;
-}
-
 }
