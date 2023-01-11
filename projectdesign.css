@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+li a{
+  float: left;
+}
+
+li a{
+  color:#f07173;
+  padding: 15px;
+  font-family: 'Playfair Display';
+  text-decoration-line:none;
+
+}
+li a:hover{
+  background-color: #f6ced5;
+}
+
+body{
+  background-color:#ffe6a7;
+}
+
+p{
+  color:#bbd880;
+  font-family: 'Playfair Display';
+  font-size:160%;
+}
+
+}
